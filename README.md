@@ -1,1 +1,1 @@
-# dennis-project-1
+# project-phase-1
